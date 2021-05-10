@@ -708,6 +708,15 @@ a.menu-link.active {
     top: 50%;
     left: 4%;
     z-index: 3;
+    font-size: 16px
+
+
+}
+.phone{
+  font-size: 14px
+    top: 40%;
+  left: 50%;
+
 
 }
 
